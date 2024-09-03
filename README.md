@@ -1,2 +1,1 @@
-# mon premier project GitHub
-bla bla blaaa
+A site that informs about cocktails
